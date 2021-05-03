@@ -4,8 +4,8 @@
 
 - ☘ I am a Junior Full-Stack Software Developer based In Cork, Ireland 💾  
 - 🌅 I am constantly seeking to learn more about tech and to expand my professional horizons  
-- :octocat: Would love to collaborate with like-minded people on interesting new projects 🤝
-👀 Seeking new opportunities!  
+- :octocat: Would love to collaborate with like-minded people on interesting new projects 🤝  
+- 👀 Seeking new opportunities!  
 
 ### You can reach me here:  
 <!-- Add LinkedIn Icon  -->
