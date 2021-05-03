@@ -9,7 +9,7 @@
 
 ### You can reach me here:  
 <!-- Add LinkedIn Icon  -->
-- [LinkedIn](https://www.linkedin.com/in/paul-quinn-9b91b5162/)
+- [LinkedIn](https://www.linkedin.com/in/paul-quinn-9b91b5162/) ![LinkedIn Icon](https://img.icons8.com/offices/17/000000/linkedin.png) 
 
 ### I am currently working on:
 - 📚 My portfolio site where I aim to showcase my projects and code in one lovely space 😃  
