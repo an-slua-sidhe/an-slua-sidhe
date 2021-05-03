@@ -51,5 +51,5 @@
 
 ### Some fun things about me 😊  
 - 🎸 I have been writing, recording and performing music for 27 years 🎤  
-- 🪣 I studied Archaeology in University and have supervised on loads of digs 👁⃤  
+- ⚔️ I studied Archaeology in University and have supervised on loads of digs 👁⃤  
 - 📜 I also did an MA in Celtic Civ and have published 2 articles on Old Irish law ⚖️
