@@ -21,6 +21,8 @@
 - **Elite Gourmet** (Milestone Project 2) ✨ [Live Site](https://an-slua-sidhe.github.io/Elite-Gourmet/) | [Repo](https://an-slua-sidhe.github.io/Elite-Gourmet/) 🗃   
 - **The Corr Mhóna Band Website** (Milestone Project 1) ✨ [Live Site](https://an-slua-sidhe.github.io/Corr-Mhona-Band-Website/) | [Repo](https://github.com/an-slua-sidhe/Corr-Mhona-Band-Website) 🗃  
 
+<br/>
+
 ### ⛏️ Technologies and Tools 🛠️:
 #### Languages:  
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=for-the-badge)
@@ -47,7 +49,16 @@
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232f3e?logo=amazon%20AWS&logoColor=ec9423&style=for-the-badge)
 ![Stripe](https://img.shields.io/badge/Stripe-6772e5?logo=stripe&logoColor=ffffff&style=for-the-badge)
 
-<!-- ### Github Status and/or Github Stats -->
+<br/>
+
+### My Github Stats:
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=an-slua-sidhe&hide=issues,contribs&theme=vue)](https://github.com/an-slua-sidhe/github-readme-stats)
+
+<br/>
+
+[![Paul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=an-slua-sidhe&layout=compact&theme=vue)](https://github.com/an-slua-sidhe/github-readme-stats)
+
+<br/>
 
 ### Some fun things about me 😊  
 - 🎸 I have been writing, recording and performing music for 27 years 🎤  
