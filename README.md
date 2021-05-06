@@ -18,7 +18,7 @@
 ### My finished Projects:
 - **The Philanthropist** (Milestone Project 4) ✨ [Live Site](https://pq-the-philanthropist.herokuapp.com/) | [Repo](https://github.com/an-slua-sidhe/The-Philanthropist) 🗃   
 - **The Original Fantasy Game&trade;** (Milestone Project 3) ✨ [Live Site](https://pq-original-fantasy-game.herokuapp.com/main_page) | [Repo](https://github.com/an-slua-sidhe/Original-Fantasy-Game) 🗃   
-- **Elite Gourmet** (Milestone Project 2) ✨ [Live Site](https://an-slua-sidhe.github.io/Elite-Gourmet/) | [Repo](https://an-slua-sidhe.github.io/Elite-Gourmet/) 🗃   
+- **Elite Gourmet** (Milestone Project 2) ✨ [Live Site](https://an-slua-sidhe.github.io/Elite-Gourmet/) | [Repo](https://github.com/an-slua-sidhe/Elite-Gourmet) 🗃   
 - **The Corr Mhóna Band Website** (Milestone Project 1) ✨ [Live Site](https://an-slua-sidhe.github.io/Corr-Mhona-Band-Website/) | [Repo](https://github.com/an-slua-sidhe/Corr-Mhona-Band-Website) 🗃  
 
 <br/>
