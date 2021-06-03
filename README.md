@@ -2,10 +2,10 @@
 
 ### My name is Paul 😊 Welcome to my profile, tá fáilte romhaibh!  
 
-- ☘ I am a Junior Full-Stack Software Developer based In Cork, Ireland 💾  
+- ☘ I am a Junior Full-Stack Software Developer from Ireland 💾  
 - 🌅 I am constantly seeking to learn more about tech and to expand my professional horizons  
 - :octocat: Would love to collaborate with like-minded people on interesting new projects 🤝  
-- 👀 Seeking new opportunities!  
+- 👀 Seeking new opportunities!
 
 ### You can reach me here:  
 <!-- Add LinkedIn Icon  -->
