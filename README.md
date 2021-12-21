@@ -2,18 +2,18 @@
 
 ### My name is Paul 😊 Welcome to my profile, tá fáilte romhaibh!  
 
-- ☘ I am a Junior Full-Stack Software Developer from Ireland 💾  
+- ☘ I am an Automated Test Engineer from Ireland 💾  
 - 🌅 I am constantly seeking to learn more about tech and to expand my professional horizons  
 - :octocat: Would love to collaborate with like-minded people on interesting new projects 🤝  
-- 👀 Seeking new opportunities!
+- 👀 Have recently begun my career with Dell EMC here in Cork! 
 
 ### You can reach me here:  
 <!-- Add LinkedIn Icon  -->
 - [LinkedIn](https://www.linkedin.com/in/paul-quinn-9b91b5162/) ![LinkedIn Icon](https://img.icons8.com/offices/17/000000/linkedin.png) 
 
 ### I am currently working on:
-- 📚 My portfolio site where I aim to showcase my projects and code in one lovely space 😃  
-- 🧱 Refactoring code from the 4 Milestone projects I created for my Diploma in Full-Stack Web Development (See below! ⤵)
+- 📚 Improving my automated testing skills 😃  
+- 🧱 Creating a bespoke website for a very talented artist friend 🎨
 
 ### My finished Projects:
 - **The Philanthropist** (Milestone Project 4) ✨ [Live Site](https://pq-the-philanthropist.herokuapp.com/) | [Repo](https://github.com/an-slua-sidhe/The-Philanthropist) 🗃   
